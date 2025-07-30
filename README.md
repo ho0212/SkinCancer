@@ -7,4 +7,4 @@ This project uses deep learning to classify skin lesion images into different di
 - Data: 10,000+ dermatoscopic images from HAM10000
 - Model: Transfer learning using pre-trained CNNs (e.g., EfficientNet, ResNet, or Densenet) with fine-tuning
 - Evaluation: Accuracy, Confusion Matrix, Classification Report, Grad-CAM
-- Dataset not included due to size-see `data/README.md` for instructions
+- Dataset is not included due to large file size. Please refer to `data/README.md` for detailed download instructions.
